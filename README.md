@@ -11,7 +11,9 @@ Selenium, Chrome and Python 3 are used
 There are 4 Files
 
 ### principal.py
+
 Contains all the flow for the test using selenium and there is a video making proof of this
+can be seen in the following [link](https://youtu.be/LUftJvnZwAI)
 ### RegistrationForm.py
 Contains the 4 tests that are requiried in the document for the registration form screen
 ### CategoryScreen.py
